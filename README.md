@@ -19,6 +19,8 @@ Write a shiny application with associated supporting documentation. The document
 My Shiny application is examining the number of deaths in Virginia in 1940. When the population group of either Rural Male, Rural Female, Urban Male, or Urban Female is entered, a bar graph is plotted by age group and the total number of deaths in that population group is given.
 When a different population group is entered, a new bar graph will be plotted and the new total number of deaths will be shown.
 
+My application is available on shinyapps.io at the following link: https://rmhatsh.shinyapps.io/Developing_Data_Products_Assignment/ 
+
 ## Reproducible Pitch Presentation
 
 You get 5 slides (inclusive of the title slide) to pitch a your app. You're going to create a web page using Slidify or Rstudio Presenter with an html 5 slide deck.
