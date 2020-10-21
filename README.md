@@ -39,5 +39,5 @@ Here's what you need:
 
 ### My Pitch Presentation
 
-My presentation is hosted on Rpubs at the following link:
+My presentation is hosted on Rpubs at the following link: https://rpubs.com/rmhatsh/data-products
 
